@@ -1,4 +1,4 @@
-#String and numeric values can operate to with *
+#String and numeric values can operate to  *
 A = 2
 B = 3
 txt = "@"
