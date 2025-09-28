@@ -14,5 +14,8 @@ str = "i am studying python"
 print (str.find("am"))#5 find the index of first occurrence of a substring index of substring 
 print (str.find("Q"))# if substring is not found it will return -1 
 
+str = "i am studying python"
+print(str.count("y"))#6 count the number of occurrences of a substring in the string
+
 
 
