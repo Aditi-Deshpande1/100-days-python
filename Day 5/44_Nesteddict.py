@@ -6,5 +6,8 @@ info = {
         "maths" : 92,
     }
 }
+#nested dict
 
 print(info  ["Subjects"]["chem"])
+print(info ["Subjects"]["phy"])
+print(info ["Subjects"]["maths"])
